@@ -1,0 +1,16 @@
+3 2
+1 rock 2 rock
+2 paper 1 paper
+100 3
+99 rock 50 scissors
+98 rock 50 scissors
+99 rock 100 scissors
+3 7
+1 rock 2 paper
+2 paper 3 rock
+2 paper 1 rock
+1 scissors 2 paper
+2 scissors 3 paper
+2 rock 1 scissors
+2 paper 3 scissors
+0
