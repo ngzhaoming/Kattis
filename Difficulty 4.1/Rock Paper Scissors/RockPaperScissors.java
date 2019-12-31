@@ -19,12 +19,13 @@ public class RockPaperScissors{
             
             HashMap<Integer, Player> list = new HashMap<>();
             int games = sc.nextInt();
+            int total = games * players * ( players - 1) / 2;
 
             for (int i = 0; i < players; i++) {
                 list.put(i + 1, new Player());
             }
             
-            for (int i = 0; i < games; i++) {
+            for (int i = 0; i < total; i++) {
                 int one = sc.nextInt();
                 String onePlay = sc.next();
                 int two = sc.nextInt();
