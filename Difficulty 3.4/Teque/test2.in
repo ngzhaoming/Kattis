@@ -1,0 +1,11 @@
+8
+push_front 100
+push_front 5
+push_front 66
+push_front 3333
+get 0
+get 1
+get 2
+get 3
+
+

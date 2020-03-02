@@ -1,0 +1,7 @@
+6
+push_back 100
+push_back 5 
+push_back 999
+get 0
+get 1
+get 2
