@@ -24,7 +24,7 @@ int main() {
         total += timings.at(i);
     }
 
-    if (total <= timings.back()) {
+    if (timings.back() > total) {
         cout << timings.back() * 2 << endl;
     } else {
         cout << timings.back() + total << endl;
