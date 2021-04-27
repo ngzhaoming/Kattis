@@ -1,0 +1,6 @@
+5 3
+WLL
+LWL
+CCC
+WWW
+CCC
